@@ -1,0 +1,13 @@
+const projects = [
+    {
+        title: "Social Media Campaign - Brand X",
+        category: "Social Media Management",
+        image: "project1.jpg" // আপনার ছবির নাম
+    },
+    {
+        title: "Logo Design for Startup",
+        category: "Graphic Design",
+        image: "project2.jpg"
+    }
+    // পরে এখানে আরও প্রজেক্ট কমা দিয়ে যোগ করবেন
+];
