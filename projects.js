@@ -1,8 +1,12 @@
 const projects = [
     {
-        title: "Instagram Reel for Brand X",
+        title: "আপনার প্রজেক্টের নাম (যেমন: Facebook Ad Design)",
+        category: "Graphic Design",
+        image: "mywork1.jpg" // আপনি যে নামে ছবি আপলোড করেছেন
+    },
+    {
+        title: "Social Media Strategy for Brand X",
         category: "Social Media Management",
-        image: "my-reel.mp4", // ভিডিও ফাইলের নাম
-        type: "video" // আমরা একটি নতুন 'type' যোগ করলাম
+        image: "mywork2.png" 
     }
 ];
